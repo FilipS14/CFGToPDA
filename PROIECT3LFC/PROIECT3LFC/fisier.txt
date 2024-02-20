@@ -1,0 +1,9 @@
+2
+S B
+2
+a b
+S
+3
+S aSB
+S aB
+B b
